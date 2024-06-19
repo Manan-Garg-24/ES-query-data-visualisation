@@ -1,0 +1,2 @@
+# All directories not intended to be uploaded to git - includes virtual environment and IDE settings
+.*/
